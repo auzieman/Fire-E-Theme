@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-30",
+  "source_repository": "auzieman/BlackKnight-E-Theme",
+  "source_head": "c62894fe33952331cd0744f2a486e34ad916886a",
+  "includes_working_tree_changes": true,
+  "origins": [
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-6.svg",
+      "destination": "wallpaper/fire-motion-6.svg",
+      "source_sha256": "534e4d4fc138311bd2e82198623338b5226f1867a4d0b06d1ad8d923c9a24178"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/ember-wisp.png",
+      "destination": "wallpaper/ember-wisp.png",
+      "source_sha256": "ecba1c5039cb5fd5fde2299952e1c65240a04a1e7aea775a80fb1f211e7027bc"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-3.svg",
+      "destination": "wallpaper/fire-motion-3.svg",
+      "source_sha256": "650e56eb4bf7d88be608ef8b4693913a44e44cc057ef7b8d4832589f365bb80e"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-0.svg",
+      "destination": "wallpaper/fire-motion-0.svg",
+      "source_sha256": "3bf142d1ddee0a98cb592c415a206806dd810d3222bfab24788f0036fc70380b"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-5.svg",
+      "destination": "wallpaper/fire-motion-5.svg",
+      "source_sha256": "e58694f5c5f56d6cc27421d06f5473b710d77b3ba06a60a98cc99f507bf10dd6"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-2.svg",
+      "destination": "wallpaper/fire-motion-2.svg",
+      "source_sha256": "dd2fe7c37c2abd113ab0929c72efca9406604c3952c3c22aa78eabd983e80846"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-4.svg",
+      "destination": "wallpaper/fire-motion-4.svg",
+      "source_sha256": "46fbbe27565c4585396496c48bf354ae6a460262d5c2619b77df6b87b555f5dd"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-7.svg",
+      "destination": "wallpaper/fire-motion-7.svg",
+      "source_sha256": "7a3808465e3601227c383b3a86642743ccdd29f974c821282e30ebf94b5b9541"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/scene.png",
+      "destination": "wallpaper/scene.png",
+      "source_sha256": "21e55309a90515d3aee0694cd57da0b25a232342a8267052ee70d06b2c1a3a25"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/wallpaper.edc",
+      "destination": "wallpaper/wallpaper.edc",
+      "source_sha256": "986acad624b9cf4745696de9a97882c6977c582bbea1777745022affae661ce8"
+    },
+    {
+      "source": "build/out/ami/material-pass-v3/Ami-Ember-wallpaper/fire-motion-1.svg",
+      "destination": "wallpaper/fire-motion-1.svg",
+      "source_sha256": "39634f0f9bcfe004265e10d7b498a7812e8d7c045c0374028e6842059946c59a"
+    },
+    {
+      "source": "themes/ami/ilbm.py",
+      "destination": "source/paired-study/ilbm.py",
+      "source_sha256": "34055af2d6ce018ce46f1f89f99f29208f53d81e864ec59dd0a4e75d47956196"
+    },
+    {
+      "source": "themes/ami/render.c",
+      "destination": "source/paired-study/render.c",
+      "source_sha256": "40d9441b00e6f47c5e09b6e7f14813d5d041007d8cd1265aed914334fa20842b"
+    },
+    {
+      "source": "themes/ami/prepare.py",
+      "destination": "source/paired-study/prepare.py",
+      "source_sha256": "00bb0d521cff94635cc009089f9f7d165e56f293ce2f15717214c3da3d403ee3"
+    },
+    {
+      "source": "themes/ami/build.sh",
+      "destination": "source/paired-study/build.sh",
+      "source_sha256": "c964058a2749555b39e98af2ab424941cdc119a8d3d500d484b2040f4ac922d4"
+    },
+    {
+      "source": "themes/ami/motion/prepare-menus.py",
+      "destination": "source/paired-study/motion/prepare-menus.py",
+      "source_sha256": "9ef92e1e1d20012cd900c0e4a9944109f312565a8d6e51a9032550665699d1a4"
+    },
+    {
+      "source": "themes/ami/motion/render-wallpaper.c",
+      "destination": "source/paired-study/motion/render-wallpaper.c",
+      "source_sha256": "6f9d6f2cd1b1175088d9b189b2fa40932d726dc555cb5605e08d7972faa156a5"
+    },
+    {
+      "source": "themes/ami/motion/review.py",
+      "destination": "source/paired-study/motion/review.py",
+      "source_sha256": "8febcfa38b6c2f2793ffe3b173e32e2b99582228f0a451afb22820bd19eb28d4"
+    },
+    {
+      "source": "themes/ami/motion/review-os4.sh",
+      "destination": "source/paired-study/motion/review-os4.sh",
+      "source_sha256": "4cd72bc4b0ee2a0e05e04446d7d466807e97b29a95322361acfbf636d27db252"
+    },
+    {
+      "source": "themes/ami/motion/render.c",
+      "destination": "source/paired-study/motion/render.c",
+      "source_sha256": "0913c92bb92a48f74f5dd8bc0163a64833298fc3958c87b603c504de631fb687"
+    },
+    {
+      "source": "themes/ami/motion/build-menu.sh",
+      "destination": "source/paired-study/motion/build-menu.sh",
+      "source_sha256": "fa1611c17a431d44306af0cd546f9e47720cb85838ea5ec8a1431175c53fcd74"
+    },
+    {
+      "source": "themes/ami/motion/render-menu.c",
+      "destination": "source/paired-study/motion/render-menu.c",
+      "source_sha256": "111ca3ef50d7ee5e744d95e62920fb91f49ff755cd154c7c32b15a7ade86612e"
+    },
+    {
+      "source": "themes/ami/motion/prepare.py",
+      "destination": "source/paired-study/motion/prepare.py",
+      "source_sha256": "09f7883ab358082a0f0e577023e6e6eacacffea0e48f68a3a940afe671ad169d"
+    },
+    {
+      "source": "themes/ami/motion/prepare-shelf.py",
+      "destination": "source/paired-study/motion/prepare-shelf.py",
+      "source_sha256": "f42d9ea678bfd2d28a8ca33a031a5aacb79d6f3c950c351138297ca24571c1e2"
+    },
+    {
+      "source": "themes/ami/motion/render-shelf.c",
+      "destination": "source/paired-study/motion/render-shelf.c",
+      "source_sha256": "b00f455b5d6b3fc858bb5e59e446e35119c75890aaeb0956f4916d1ad91add36"
+    },
+    {
+      "source": "themes/ami/motion/build-material.sh",
+      "destination": "source/paired-study/motion/build-material.sh",
+      "source_sha256": "175095dfbbd3862bb02a4916da7ee5176171ea4baa6d9a18dcdc3d5260820405"
+    },
+    {
+      "source": "themes/ami/motion/prepare-material-pass.py",
+      "destination": "source/paired-study/motion/prepare-material-pass.py",
+      "source_sha256": "137c8a81852431f673862a7b1335750a399f3314d86c1be1acf3bcd63407f39f"
+    },
+    {
+      "source": "themes/ami/motion/build.sh",
+      "destination": "source/paired-study/motion/build.sh",
+      "source_sha256": "c713c6669ecdb66560963b0bd40b2aeb5451270af92b1163bfd8e7591750347e"
+    },
+    {
+      "source": "themes/ami/README.md",
+      "destination": "docs/history/baseline.md",
+      "source_sha256": "1e3cf6ef89c1f75d44c6322f4b554acc31d5783a2f08243c4365d805f1bb6d8d"
+    },
+    {
+      "source": "themes/ami/motion/README.md",
+      "destination": "docs/history/motion.md",
+      "source_sha256": "aa7a19842fd4a01c39a17be7ff8deb17e0c4986d95105a004e1b55af06ea85f2"
+    },
+    {
+      "source": "themes/ami/icons/README.md",
+      "destination": "docs/history/icons.md",
+      "source_sha256": "e0fb13e9f957d52b7889ad5f95d2f4c94431f0e2bd3ad1a17a9b54b8087f6916"
+    },
+    {
+      "source": "docs/images/ami-strong-material-review-20261026.json",
+      "destination": "docs/strong-material-review.json",
+      "source_sha256": "ec586a457501e10a62bf14480da8a1a51133af8985f142fe35e00e1e160a8b2d"
+    }
+  ],
+  "prepared_files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "50cc72f07f5b61d4c55d7730d4c764764ffd6c8bcdb47050f9cb08049270cbae"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "c767828b07fafbe6894e1177a971728db58a35e1a4dee736004482ab30d0ed95"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "be2e1642a5568ca67e37cac595aaa947a54522e80088d104ad777b55802bc72d"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "LICENSES/CC-BY-SA-4.0.html",
+      "sha256": "d48546c6161cd2698445d184a859363a2436a6a3bcda655564730e3861e74a9e"
+    },
+    {
+      "path": "LICENSES/GPL-3.0-only.txt",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "NOTICE.md",
+      "sha256": "aa15ca5caa818fe05a49378180f174a75700e2882627904057f54ba80024ac7e"
+    },
+    {
+      "path": "README.md",
+      "sha256": "379fb506e4d79fec73f998e66f917199c64cb6cd0c4f16e68b859107a43210c4"
+    },
+    {
+      "path": "assets/provenance.json",
+      "sha256": "5534dba7da2d249f0ff3edc0a4fc25711dd4abae04135334e652889d253fbc25"
+    },
+    {
+      "path": "docs/branching.md",
+      "sha256": "52a9465d80a94ec291d885dbcb99f6a0de6c5d36474681fa8eefa11c6f5a7901"
+    },
+    {
+      "path": "docs/history/baseline.md",
+      "sha256": "1e3cf6ef89c1f75d44c6322f4b554acc31d5783a2f08243c4365d805f1bb6d8d"
+    },
+    {
+      "path": "docs/history/icons.md",
+      "sha256": "e0fb13e9f957d52b7889ad5f95d2f4c94431f0e2bd3ad1a17a9b54b8087f6916"
+    },
+    {
+      "path": "docs/history/motion.md",
+      "sha256": "aa7a19842fd4a01c39a17be7ff8deb17e0c4986d95105a004e1b55af06ea85f2"
+    },
+    {
+      "path": "docs/strong-material-review.json",
+      "sha256": "ec586a457501e10a62bf14480da8a1a51133af8985f142fe35e00e1e160a8b2d"
+    },
+    {
+      "path": "docs/task.md",
+      "sha256": "50194342920f64adf02cfb2677c83655fdeb0523c804195aa29ecb231c6a2f7a"
+    },
+    {
+      "path": "source/paired-study/build.sh",
+      "sha256": "c964058a2749555b39e98af2ab424941cdc119a8d3d500d484b2040f4ac922d4"
+    },
+    {
+      "path": "source/paired-study/ilbm.py",
+      "sha256": "34055af2d6ce018ce46f1f89f99f29208f53d81e864ec59dd0a4e75d47956196"
+    },
+    {
+      "path": "source/paired-study/motion/build-material.sh",
+      "sha256": "175095dfbbd3862bb02a4916da7ee5176171ea4baa6d9a18dcdc3d5260820405"
+    },
+    {
+      "path": "source/paired-study/motion/build-menu.sh",
+      "sha256": "fa1611c17a431d44306af0cd546f9e47720cb85838ea5ec8a1431175c53fcd74"
+    },
+    {
+      "path": "source/paired-study/motion/build.sh",
+      "sha256": "c713c6669ecdb66560963b0bd40b2aeb5451270af92b1163bfd8e7591750347e"
+    },
+    {
+      "path": "source/paired-study/motion/prepare-material-pass.py",
+      "sha256": "137c8a81852431f673862a7b1335750a399f3314d86c1be1acf3bcd63407f39f"
+    },
+    {
+      "path": "source/paired-study/motion/prepare-menus.py",
+      "sha256": "9ef92e1e1d20012cd900c0e4a9944109f312565a8d6e51a9032550665699d1a4"
+    },
+    {
+      "path": "source/paired-study/motion/prepare-shelf.py",
+      "sha256": "f42d9ea678bfd2d28a8ca33a031a5aacb79d6f3c950c351138297ca24571c1e2"
+    },
+    {
+      "path": "source/paired-study/motion/prepare.py",
+      "sha256": "884405f7240a5e3e6801d10c3a992535b247d6eb1087b78789b1a6f2d32b2edb"
+    },
+    {
+      "path": "source/paired-study/motion/render-menu.c",
+      "sha256": "111ca3ef50d7ee5e744d95e62920fb91f49ff755cd154c7c32b15a7ade86612e"
+    },
+    {
+      "path": "source/paired-study/motion/render-shelf.c",
+      "sha256": "39c08593764704fec17d0f94a1d29a5135d99cc1f7dc200c1910ea6df3dce0dc"
+    },
+    {
+      "path": "source/paired-study/motion/render-wallpaper.c",
+      "sha256": "6f9d6f2cd1b1175088d9b189b2fa40932d726dc555cb5605e08d7972faa156a5"
+    },
+    {
+      "path": "source/paired-study/motion/render.c",
+      "sha256": "891bb88f006b5a19bca7144c09a8100349a9ae1de0e72f2124def85911969d70"
+    },
+    {
+      "path": "source/paired-study/motion/review-os4.sh",
+      "sha256": "4cd72bc4b0ee2a0e05e04446d7d466807e97b29a95322361acfbf636d27db252"
+    },
+    {
+      "path": "source/paired-study/motion/review.py",
+      "sha256": "8febcfa38b6c2f2793ffe3b173e32e2b99582228f0a451afb22820bd19eb28d4"
+    },
+    {
+      "path": "source/paired-study/prepare.py",
+      "sha256": "00bb0d521cff94635cc009089f9f7d165e56f293ce2f15717214c3da3d403ee3"
+    },
+    {
+      "path": "source/paired-study/render.c",
+      "sha256": "40d9441b00e6f47c5e09b6e7f14813d5d041007d8cd1265aed914334fa20842b"
+    },
+    {
+      "path": "wallpaper/build.sh",
+      "sha256": "01cae6f69c7677d4f1515906b2d587843c251d7982628f030a442ed9a198e381"
+    },
+    {
+      "path": "wallpaper/ember-wisp.png",
+      "sha256": "ecba1c5039cb5fd5fde2299952e1c65240a04a1e7aea775a80fb1f211e7027bc"
+    },
+    {
+      "path": "wallpaper/fire-motion-0.svg",
+      "sha256": "3bf142d1ddee0a98cb592c415a206806dd810d3222bfab24788f0036fc70380b"
+    },
+    {
+      "path": "wallpaper/fire-motion-1.svg",
+      "sha256": "39634f0f9bcfe004265e10d7b498a7812e8d7c045c0374028e6842059946c59a"
+    },
+    {
+      "path": "wallpaper/fire-motion-2.svg",
+      "sha256": "dd2fe7c37c2abd113ab0929c72efca9406604c3952c3c22aa78eabd983e80846"
+    },
+    {
+      "path": "wallpaper/fire-motion-3.svg",
+      "sha256": "650e56eb4bf7d88be608ef8b4693913a44e44cc057ef7b8d4832589f365bb80e"
+    },
+    {
+      "path": "wallpaper/fire-motion-4.svg",
+      "sha256": "46fbbe27565c4585396496c48bf354ae6a460262d5c2619b77df6b87b555f5dd"
+    },
+    {
+      "path": "wallpaper/fire-motion-5.svg",
+      "sha256": "e58694f5c5f56d6cc27421d06f5473b710d77b3ba06a60a98cc99f507bf10dd6"
+    },
+    {
+      "path": "wallpaper/fire-motion-6.svg",
+      "sha256": "534e4d4fc138311bd2e82198623338b5226f1867a4d0b06d1ad8d923c9a24178"
+    },
+    {
+      "path": "wallpaper/fire-motion-7.svg",
+      "sha256": "7a3808465e3601227c383b3a86642743ccdd29f974c821282e30ebf94b5b9541"
+    },
+    {
+      "path": "wallpaper/scene.png",
+      "sha256": "21e55309a90515d3aee0694cd57da0b25a232342a8267052ee70d06b2c1a3a25"
+    },
+    {
+      "path": "wallpaper/wallpaper.edc",
+      "sha256": "986acad624b9cf4745696de9a97882c6977c582bbea1777745022affae661ce8"
+    }
+  ],
+  "private_required": false,
+  "native_rebuild_completed": false
+}

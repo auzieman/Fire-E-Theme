@@ -1,0 +1,9 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "date": "2026-10-26",
+  "wallpaper/scene.png": {
+    "source": "/home/auzieman/.codex/generated_images/01a17a97-5a9d-7981-82f6-16f9f7c1e892/exec-307ba70d-4ddc-449b-ad35-d2e973f54fa4.png",
+    "prompt": "Create a polished 16:9 desktop wallpaper bitmap, no text, no logos, no UI. Restrained gothic industrial Ember theme for a classic polished chrome desktop. Vast quiet matte charcoal-black centre and left upper area for readable desktop icons. Along the bottom edge and lower right corner only, elegant small copper-orange flames and flowing molten ember filaments contained beneath sculpted blackened metal, subtle embossed dark metallic curves, very fine realistic material detail, expensive understated finish. Fire occupies at most bottom quarter, warm highlights controlled with no white hot glare, no fantasy characters, no skulls, no objects. This is a still base for lightweight layered animation, coherent dark navy black neutral background, broad clean negative space. Landscape wide composition.",
+    "sha256": "21e55309a90515d3aee0694cd57da0b25a232342a8267052ee70d06b2c1a3a25"
+  }
+}
