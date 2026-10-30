@@ -4,4 +4,5 @@ set -eu
 cd "$(dirname "$0")"
 mkdir -p ../build
 edje_cc -id . wallpaper.edc ../build/wallpaper-still.edj
-edje_cc -DANIMATED -id . wallpaper.edc ../build/wallpaper-animated.edj
+# Fire Strong Animated is held back after user visual review (2026-10-30).
+# Its experimental sources remain for revision; do not package existing outputs.

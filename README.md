@@ -3,8 +3,14 @@
 Independent repository extracted from BlackKnight-E-Theme's working tree on
 2026-10-30. Native wallpaper source is self-contained in `wallpaper/`, with
 original generated raster, effect layers and provenance. In the existing BKC
-compiler job, `sh wallpaper/build.sh` builds still/animated EDJs; no desktop
+compiler job, `sh wallpaper/build.sh` builds the still EDJ; no desktop
 setting is selected. This extracted recipe has not yet been rebuilt.
+
+**Fire Strong Animated is held back from release.** User visual review on
+2026-10-30 rejected the current flame appearance. Keep its sources as an
+experiment; exclude existing strong animated EDJs and demonstration clips from
+release uploads. The still wallpaper remains in scope. Rework and renewed
+visual acceptance are required before including the animation again.
 
 The desktop adaptation tools are retained in `source/paired-study/`. They still
 operate on the paired Fire/Molten Steel study; these are migration inputs, not a
@@ -17,7 +23,8 @@ credit Auzieman / AuzieTek; see LICENSES and assets/provenance.json. Third-party
 inputs retain their own rights. See NOTICE.md and docs/history for boundaries.
 
 Historical native run: `0bd8ae7b-131b-4dbb-ab9f-e9f23751218f`; existing pixel
-motion/pause/resume checks passed. No new compile, live desktop, GPU or HiDPI
+motion/pause/resume checks passed; those checks do not establish visual approval
+of the flames. No new compile, live desktop, GPU or HiDPI
 acceptance follows from this extraction.
 
 Next: give the desktop generator a single-theme interface, resolve upstream
